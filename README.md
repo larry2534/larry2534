@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 ssh-keygen -t ed25519 -c ¨email¨
+
 
 <!--
 **larry2534/larry2534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
