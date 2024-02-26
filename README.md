@@ -1,4 +1,4 @@
-### Hi there 👋 ssh-keygen -t ed25519 -c ¨email¨
+### Hi there 👋 ssh-keygen -t ed25519 -c ¨email¨ - eval "$(ssh-agent -s)"
 
 
 <!--
